@@ -535,7 +535,7 @@ footer {
     
     .gambar {
         border-radius: 15px;
-        overflow: hidden; /* Supaya sudut gambar melengkung */
+        overflow: hidden;
     }
 
     .slider .list .item .detail{
