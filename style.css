@@ -531,7 +531,6 @@ footer {
         display: grid; /* Menggunakan Grid Layout */
         grid-template-columns: repeat(2, 1fr); /* 2 gambar per baris */
         gap: 20px; /* Jarak antar gambar */
-        margin-left: 10%;
     }
     
     .gambar {
