@@ -524,9 +524,11 @@ footer {
 
     .container{
         max-width: 400px;
-        align-items: center;
     }
 
+    .container .gallery{
+        align-items: center;
+    }
     .gallery {
         display: grid; /* Menggunakan Grid Layout */
         grid-template-columns: repeat(2, 1fr); /* 2 gambar per baris */
